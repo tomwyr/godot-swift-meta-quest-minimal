@@ -233,4 +233,4 @@ Wait for Gradle to build the Android bundle and verify that the application has 
 
 ## Contributions
 
-Contributions are welcome! If you have suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions are welcome. If you have suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
