@@ -1,0 +1,24 @@
+[configuration]
+entry_symbol = "swift_entry_point"
+compatibility_minimum = 4.3
+
+[libraries]
+macos.debug = "res://swift/bin/libGodotSwiftXr.dylib"
+android.debug.arm64 = "res://swift/bin/libGodotSwiftXr.so"
+
+[dependencies]
+macos.debug = {"res://swift/bin/libSwiftGodot.dylib" : ""}
+android.debug.arm64 = {
+  "res://swift/bin/libSwiftGodot.so" : "",
+  "res://swift/bin/libswiftAndroid.so" : "",
+  "res://swift/bin/libswift_Builtin_float.so": "",
+  "res://swift/bin/libswift_math.so": "",
+  "res://swift/bin/libswiftSwiftOnoneSupport.so": "",
+  "res://swift/bin/libswiftCore.so": "",
+  "res://swift/bin/libswift_Concurrency.so": "",
+  "res://swift/bin/libswift_StringProcessing.so": "",
+  "res://swift/bin/libswift_RegexParser.so": "",
+  "res://swift/bin/libdispatch.so": "",
+  "res://swift/bin/libBlocksRuntime.so": "",
+  "res://swift/bin/libc++_shared.so": ""
+}
