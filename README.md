@@ -2,7 +2,7 @@
 
 https://github.com/user-attachments/assets/e7a73b70-2fd4-4078-a364-546cbe9c7891
 
-# About
+## About
 
 This guide streamlines the process of creating a minimal functionality project that is able to run Swift code with Godot on the Meta Quest by combining the steps of setting up a few different tools and configurations that are required, which can be time consuming, especially when doing it for the first time.
 
@@ -16,7 +16,7 @@ The documentation includes only a basic setup of such project. For more detailed
 
 In the event of running into any issues, please consult the resources above for the most up-to-date documentation and/or create GitHub Issue describing the specific problem.
 
-# Project setup
+## Project setup
 
 The following guide describes all steps necessary to integrate Swift code with Godot and deploy it to the Meta Quest.
 
@@ -230,3 +230,7 @@ Connect a Meta Quest headset with developer mode enabled and run the project usi
 Wait for Gradle to build the Android bundle and verify that the application has properly rendered the Swift node:
 
 <img width="632" alt="Screenshot 2025-04-05 at 19 24 50" src="https://github.com/user-attachments/assets/ffd83ba7-9a27-4913-b441-1118319debc3" />
+
+## Contributions
+
+Contributions are welcome! If you have suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
