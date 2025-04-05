@@ -51,7 +51,6 @@ unzip ~/Downloads/Godot_v4.3-stable_macos.universal.zip
 **Configure project**
 
 Create a new Godot project and install the necessary plugins from AssetLib:
-- Godot XR Tools
 - Godot OpenXR Vendors
 
 Configure the project to run as an XR application:
