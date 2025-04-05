@@ -12,6 +12,10 @@ The documentation includes only a basic setup of such project. For more detailed
 - [Swift Android SDK](https://github.com/finagolfin/swift-android-sdk/)
 - [Enable Developer Mode](https://developers.meta.com/horizon/documentation/native/android/mobile-device-setup/)
 
+**Important notes**
+
+In order to keep the size of the repository small, addons and compiled binaries have been excluded from tracking.
+
 **Troubleshooting**
 
 In the event of running into any issues, please consult the resources above for the most up-to-date documentation and/or create GitHub Issue describing the specific problem.
@@ -135,7 +139,12 @@ import SwiftGodot
 
 ### Build Swift project
 
-Build the Swift project and move the compiled binaries to correct the location to expose them to Godot:
+Build the Swift project and move the compiled binaries to correct the location to expose them to Godot.
+
+```
+# Create dir for the binaries
+mkdir bin
+```
 
 **macOS**
 
