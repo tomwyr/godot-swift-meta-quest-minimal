@@ -58,7 +58,7 @@ Configure the project to run as an XR application:
 - Enable OpenXR and Shaders under *Project > Project Settings... > General > XR*
 
 Add Android build configuration under *Project > Export...*:
-- Create new preset *Add... > Android*
+- Create new preset with *Add... > Android*
 - Check *Use Gradle Build*
 - Under *XR Features* set *XR Mode* to *OpenXR* and check *Enable Meta Plugin*
 
