@@ -4,7 +4,7 @@ https://github.com/user-attachments/assets/e7a73b70-2fd4-4078-a364-546cbe9c7891
 
 ## About
 
-This guide streamlines the process of creating a minimal functionality project that is able to run Swift code with Godot on the Meta Quest by combining the steps of setting up a few different tools and configurations that are required, which can be time consuming, especially when doing it for the first time.
+This guide streamlines the process of creating a minimal functionality project that is able to run Swift code with Godot on the Meta Quest by combining the steps of setting up a few different tools and configurations that are required, which can be time consuming when doing it for the first time.
 
 The documentation includes only a basic setup of such project. For more detailed information, as well as the most up-to-date documentation of all tools used, head to the following resources:
 - [Godot Engine](https://godotengine.org/)
