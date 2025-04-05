@@ -54,7 +54,6 @@ Create a new Godot project and install the necessary plugins from AssetLib:
 - Godot OpenXR Vendors
 
 Configure the project to run as an XR application:
-- Activate Godot XR Tools under *Project > Project Settings... > Plugins*
 - Add Android builds support via *Project > Install Android Build Template... > Install*
 - Enable OpenXR and Shaders under *Project > Project Settings... > General > XR*
 
